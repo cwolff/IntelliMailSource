@@ -1,0 +1,14 @@
+dcdmenu
+dcdadd
+gdchoice
+getdcd
+putdcd
+dcdedit
+editdcd
+readdcd
+gdchoice
+dcdprint
+printdcd
+dcdview
+seldcd
+putdcd

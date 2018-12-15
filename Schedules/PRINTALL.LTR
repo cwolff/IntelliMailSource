@@ -1,0 +1,102 @@
+This letter can print global variables (currently there is only one).
+Global variables begin with a backslash (\) and a left bracket ([). If
+any string begins with a backslash and a left bracket and is not the
+variable string below IntelliMaill will flag the string as an error.
+
+Today's date is \[date].
+
+This letter can print client variables.  Client variables begin with a
+backslash (\) and a left parenthesis (().  If any string begins with a
+backslash and a left parenthesis and is not one of the variable
+strings below IntelliMail will flag the string as an error.
+
+The client's label code is \(cli_lbl_code)
+The client's title is \(cli_title).
+The client's birth date is \(cli_birth).
+The client's first name is \(cli_fst_name).
+The client's last name is \(cli_lst_name).
+The client's title within company is \(cli_co_title).
+The client's company name is \(cli_co_name).
+The client's first address line is \(cli_addr_1).
+The client's seconde address line is \(cli_addr_2).
+The client`s city is \(cli_city).
+The client`s abreviation for state is \(cli_state).
+The client's zip code is \(cli_zip).
+The client's phone number is \(cli_phone).
+The client's comments (since this variable can be up to 65 character
+long is is wise to place this variable string on a line by itself) ->
+\(cli_comments)
+
+This letter can print business variables.  Business variables begin
+with a backslash (\) and a left brace ({).  If any string begins with
+backslash and a left brace and is not one of the variable strings
+below IntelliMail will flag the string as an error.
+
+The professional's first name is \{bus_fst_name}.
+The professional's last name is \{bus_lst_name}.
+The professional's title is \{bus_title}.
+The name of the business is \{bus_name}.
+The first address line of the business is \{bus_address_1}.
+The second address line of the business is \{bus_address_2}.
+The city of the business is \{bus_city}.
+The abreviation for the state is \{bus_state}.
+The zip code of the business is \{bus_zip}.
+The phone number of the business is \{bus_phone}.
+
+
+page 1 line 47
+page 1 line 48
+page 2 line 1
+page 2 line 2
+page 2 line 3
+page 2 line 4
+page 2 line 5
+page 2 line 6
+page 2 line 7
+page 2 line 8
+page 2 line 9
+page 2 line 10
+page 2 line 11
+page 2 line 12
+page 2 line 13
+page 2 line 14
+page 2 line 15
+page 2 line 16
+page 2 line 17
+page 2 line 18
+page 2 line 19
+page 2 line 20
+page 2 line 21
+page 2 line 22
+page 2 line 23
+page 2 line 24
+page 2 line 25
+page 2 line 26
+page 2 line 27
+page 2 line 28
+page 2 line 29
+page 2 line 30
+page 2 line 31
+page 2 line 32
+page 2 line 33
+page 2 line 34
+page 2 line 35
+page 2 line 36
+page 2 line 37
+page 2 line 38
+page 2 line 39
+page 2 line 40
+page 2 line 41
+page 2 line 42
+page 2 line 43
+page 2 line 44
+page 2 line 45
+page 2 line 46
+page 2 line 47
+page 2 line 48
+page 3 line 1
+page 3 line 2
+page 3 line 3
+page 3 line 4
+page 3 line 5
+

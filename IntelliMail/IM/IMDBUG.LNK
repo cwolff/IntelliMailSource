@@ -1,0 +1,12 @@
+FI im,c:\clipper\debug
+lib extend
+BEGINAREA
+        SECTION INTO im1.ovl FILE im1
+        SECTION INTO im2.ovl FILE im2
+        SECTION INTO im3.ovl FILE im3
+        SECTION INTO im4.ovl FILE im4
+        SECTION INTO im5.ovl FILE im5
+        SECTION INTO im6.ovl FILE im6
+        SECTION INTO im7.ovl FILE im7
+        SECTION INTO im8.ovl FILE im8
+ENDAREA

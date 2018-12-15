@@ -1,0 +1,47 @@
+This letter can print global variables (currently there is onlyç
+one). Global variables begin with a backslash (\) and a left bracketç
+([).  If any string begins with a backslash and a left bracket andç
+is not the variable string below IntelliMaill will flag the stringç
+as an error.
+
+Today's date is \[date].
+
+This letter can print client variables.  Client variables begin withç
+a backslash (\) and a left parenthesis (().  If any string beginsç
+with a backslash and a left parenthesis and is not one of theç
+variable strings below IntelliMail will flag the string as an error.
+
+The client's birth date is \(cli_birth).
+The client's label code (if used) \(cli_lbl_code).
+The client's title \(cli_title).
+The client's first name is \(cli_fst_name).
+The client's last name is \(cli_lst_name).
+The client's company title is \(cli_co_title).
+The client's company name is \(cli_co_name).
+The client's first address line is \(cli_addr_1).
+The client's second address line is \(cli_addr_2).
+The client`s city is \(cli_city).
+The client`s abreviation for state is \(cli_state).
+The client's zip code is (up to 9 digites allowed) \(cli_zip).
+The client's phone number is \(cli_phone).
+The client's comments (since this variable can be up to 65 characterç
+long is is wise to place this variable string on a line by itself)ç
+-> \(cli_comments)
+
+
+This letter can print business variables.  Business variables beginç
+with a backslash (\) and a left brace ({).  If any string beginsç
+with backslash and a left brace and is not one of the variableç
+strings below IntelliMail will flag the string as an error.
+
+The professional's first name is \{bus_fst_name}.
+The professional's last name is \{bus_lst_name}.
+The professional's title is \{bus_title}.
+The name of the business is \{bus_name}.
+The first addr_1 line of the business is \{bus_addr_1}.
+The second addr_1 line of the business is \{bus_addr_2}.
+The city of the business is \{bus_city}.
+The abreviation for the state is \{bus_state}.
+The zip code of the business is \{bus_zip}.
+The phone number of the business is \{bus_phone}.
+

@@ -1,0 +1,10 @@
+schdmenu
+schdadd
+getsch
+putsch
+schdedit
+editschd
+schdview
+selschd
+schprint
+printsch
